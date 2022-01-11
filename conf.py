@@ -22,7 +22,7 @@ copyright = '2022, Nikolay'
 author = 'Nikolay'
 
 
-notfound_urls_prefix = ''
+notfound_urls_prefix = '/github-pages-404/'
 
 
 # -- General configuration ---------------------------------------------------
