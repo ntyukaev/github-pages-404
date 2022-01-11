@@ -22,6 +22,9 @@ copyright = '2022, Nikolay'
 author = 'Nikolay'
 
 
+notfound_urls_prefix = ''
+
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
